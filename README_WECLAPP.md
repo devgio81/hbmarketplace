@@ -25,6 +25,6 @@ Zur Überwachung des Systems würde ich folgende Maßnahmen empfehlen:
 1. Umgebungsvariablen in `.env` implementieren:
    ```
    WECLAPP_BASE_URL=https://hbtestmarketplace.weclapp.com/webapp/api/v1
-   WECLAPP_API_TOKEN=fab36818-56d8-455a-bfdc-536bb88b8b7d
+   WECLAPP_API_TOKEN={TOKEN}
    WECLAPP_RATE_LIMIT_PER_MINUTE=30
    ```
